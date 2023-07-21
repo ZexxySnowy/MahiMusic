@@ -42,7 +42,7 @@ async def start_comm(client, message: Message, _):
         name = message.text.split(None, 1)[1]
         if name[0:4] == "help":
             keyboard = help_pannel(_)
-            await message.reply_sticker("CAACAgUAAx0CZTyC9AABASWxZLbcdFBor7OozKPbjkPrChTlnmoAAqEKAAI10LhVbR-6DKqKOWseBA")
+            await message.reply_sticker("CAACAgUAAxkBAAIdzWS6SOuJTyhUAje9gf9_NGVaVlaeAAI2CgACnnCRVHvF9Bvb8HUCLwQ")
             return await message.reply_photo(
                        photo=config.START_IMG_URL,
                        caption=_["help_1"].format(config.SUPPORT_HEHE), reply_markup=keyboard
@@ -87,7 +87,7 @@ async def start_comm(client, message: Message, _):
                     details = stats.get(vidid)
                     title = (details["title"][:35]).title()
                     if vidid == "telegram":
-                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/iro_x_support) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
+                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/SNOWY_SUPPORT) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
                     else:
                         msg += f"🔗 [{title}](https://www.youtube.com/watch?v={vidid}) ** played {count} times**\n\n"
                 msg = _["ustats_2"].format(tot, tota, limit) + msg
@@ -172,7 +172,7 @@ async def start_comm(client, message: Message, _):
                             text="• ʏᴏᴜᴛᴜʙᴇ •", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/iro_x_support"
+                            text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/SNOWY_SUPPORT"
                         ),
                     ],
                 ]
@@ -183,7 +183,7 @@ async def start_comm(client, message: Message, _):
                 photo=thumbnail,
                 caption=searched_text,
                 parse_mode="markdown",
-                reply_markup=key,
+                reply_markup=key, 
             )
             if await is_on_off(config.LOG):
                 sender_id = message.from_user.id
@@ -203,7 +203,7 @@ async def start_comm(client, message: Message, _):
         served_chats = len(await get_served_chats())
         served_users = len(await get_served_users())
         try:
-            await message.reply_sticker("CAACAgUAAx0CZTyC9AABASWxZLbcO4EGy3-KArVzcggOkLhy9o8AAqEKAAI10LhVbR-6DKqKOWsvBA")
+            await message.reply_sticker("CAACAgUAAxkBAAIdzWS6SOuJTyhUAje9gf9_NGVaVlaeAAI2CgACnnCRVHvF9Bvb8HUCLwQ")
             await message.reply_photo(
                 photo=image,
                 caption=_["start_2"].format(
