@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ZexxySnowy/MahiMusic/stargazers"><img src="https://img.shields.io/github/stars/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/shaeep043/Iro_x/network/members"> <img src="https://img.shields.io/github/forks/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/shaeep043/Iro_x/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/ZexxySnowy/MahiMusic/stargazers"><img src="https://img.shields.io/github/stars/ZexxySnowy/MahiMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/ZexxySnowy/MahiMusic/network/members"> <img src="https://img.shields.io/github/forks/ZexxySnowy/MahiMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ZexxySnowy/MahiMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/shaeep043/Iro_x/commits/shaeep043"> <img src="https://img.shields.io/github/last-commit/shaeep043/Iro_x?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/ZexxySnowy/MahiMusic/commits/shaeep043"> <img src="https://img.shields.io/github/last-commit/shaeep043/Iro_x?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
