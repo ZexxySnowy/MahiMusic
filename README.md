@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MAHI+X+MUSIC)](https://github.com/ZexxySnowy/MahiMusic)
 
 <h2 align="center">
-    ──「 Iro X Music 」──
+    ──「 MAHi X Music 」──
 </h2>
 <p align="center">
   <img src="https://te.legra.ph/file/b2706ea695ed0e7b7946d.jpg">
