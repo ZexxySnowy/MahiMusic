@@ -73,4 +73,4 @@ async def init():
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("IroX").info("Stopping Music Bot...")
+    LOGGER("Mahi").info("Stopping Music Bot...")
