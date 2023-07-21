@@ -198,7 +198,7 @@ if UPSTREAM_REPO:
         sys.exit()
 
 if PING_IMG_URL:
-    if PING_IMG_URL != "Mahi/assets/Ping.jpeg":
+    if PING_IMG_URL != "IroX/assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
             print(
                 "[ERROR] - Your PING_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -206,7 +206,7 @@ if PING_IMG_URL:
             sys.exit()
 
 if PLAYLIST_IMG_URL:
-    if PLAYLIST_IMG_URL != "Mahi/assets/Playlist.jpeg":
+    if PLAYLIST_IMG_URL != "IroX/assets/Playlist.jpeg":
         if not re.match("(?:http|https)://", PLAYLIST_IMG_URL):
             print(
                 "[ERROR] - Your PLAYLIST_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -214,7 +214,7 @@ if PLAYLIST_IMG_URL:
             sys.exit()
 
 if GLOBAL_IMG_URL:
-    if GLOBAL_IMG_URL != "Mahi/assets/Global.jpeg":
+    if GLOBAL_IMG_URL != "IroX/assets/Global.jpeg":
         if not re.match("(?:http|https)://", GLOBAL_IMG_URL):
             print(
                 "[ERROR] - Your GLOBAL_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -223,7 +223,7 @@ if GLOBAL_IMG_URL:
 
 
 if STATS_IMG_URL:
-    if STATS_IMG_URL != "Mahi/assets/Stats.jpeg":
+    if STATS_IMG_URL != "IroX/assets/Stats.jpeg":
         if not re.match("(?:http|https)://", STATS_IMG_URL):
             print(
                 "[ERROR] - Your STATS_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -232,7 +232,7 @@ if STATS_IMG_URL:
 
 
 if TELEGRAM_AUDIO_URL:
-    if TELEGRAM_AUDIO_URL != "Mahi/assets/Audio.jpeg":
+    if TELEGRAM_AUDIO_URL != "IroX/assets/Audio.jpeg":
         if not re.match("(?:http|https)://", TELEGRAM_AUDIO_URL):
             print(
                 "[ERROR] - Your TELEGRAM_AUDIO_URL url is wrong. Please ensure that it starts with https://"
@@ -250,7 +250,7 @@ if STREAM_IMG_URL:
 
 
 if SOUNCLOUD_IMG_URL:
-    if SOUNCLOUD_IMG_URL != Mahi/assets/Soundcloud.jpeg":
+    if SOUNCLOUD_IMG_URL != "IroX/assets/Soundcloud.jpeg":
         if not re.match("(?:http|https)://", SOUNCLOUD_IMG_URL):
             print(
                 "[ERROR] - Your SOUNCLOUD_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -258,7 +258,7 @@ if SOUNCLOUD_IMG_URL:
             sys.exit()
 
 if YOUTUBE_IMG_URL:
-    if YOUTUBE_IMG_URL != "Mahi/assets/Youtube.jpeg":
+    if YOUTUBE_IMG_URL != "IroX/assets/Youtube.jpeg":
         if not re.match("(?:http|https)://", YOUTUBE_IMG_URL):
             print(
                 "[ERROR] - Your YOUTUBE_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -267,7 +267,7 @@ if YOUTUBE_IMG_URL:
 
 
 if TELEGRAM_VIDEO_URL:
-    if TELEGRAM_VIDEO_URL != "Mahi/assets/Video.jpeg":
+    if TELEGRAM_VIDEO_URL != "IroX/assets/Video.jpeg":
         if not re.match("(?:http|https)://", TELEGRAM_VIDEO_URL):
             print(
                 "[ERROR] - Your TELEGRAM_VIDEO_URL url is wrong. Please ensure that it starts with https://"
