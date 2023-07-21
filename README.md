@@ -1,6 +1,6 @@
 <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MAHI+X+MUSIC)](https://github.com/shaeep043/Iro_X)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MAHI+X+MUSIC)](https://github.com/ZexxySnowy/MahiMusic)
 
 <h2 align="center">
     ──「 Iro X Music 」──
